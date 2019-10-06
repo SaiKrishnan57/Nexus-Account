@@ -27,7 +27,7 @@ npm run start
 ```
 If an error occur, check your database server or check if you have installed the prerequisites correctly.
 
-If there was no error, open Postman and create and send a new get request to:
+If there was no error, open Postman, create and send a new get request to:
 
 ```
 http://localhost:3000/
